@@ -37,14 +37,27 @@ This platform reflects the association’s identity by showcasing real moments f
 
 Inclusivity is a **core pillar** of this project:
 
-- 🎨 **4 Color-Blind Friendly UI Modes**  
-  Adapted palettes based on the user’s type of color vision deficiency.
+🎨 4 Color-Blind Friendly UI Modes
+Custom color palettes adapted to different types of color vision deficiency.
 
-- 🌗 **Dark Mode / Light Mode**  
-  Designed for users with contrast intolerance or visual fatigue.
+🌗 Dark Mode / Light Mode
+Optimized for users with contrast sensitivity and visual fatigue.
 
-- 🧠 Adaptive UX  
-  The interface dynamically adapts to user preferences to ensure comfort, clarity, and usability.
+🔍 Adjustable UI Scale
+Users can resize buttons and interface components to improve readability and ease of interaction for people with visual impairments.
+
+🧭 Guided Onboarding Tutorial
+A step-by-step tutorial is displayed on first login to help new users understand how to navigate and use the application confidently.
+
+🧠 AI Accessibility Assistant
+An intelligent assistant that:
+
+Converts the UI into speech for visually impaired users
+
+Allows users to navigate and interact with the app using voice commands, enabling hands-free usage for people with motor disabilities
+
+✨ Adaptive UX
+The interface dynamically adjusts to each user’s preferences to ensure comfort, clarity, and autonomy.
 
 ---
 
@@ -52,7 +65,7 @@ Inclusivity is a **core pillar** of this project:
 
 | Role | Capabilities |
 |-----|-------------|
-| **Admin** | Full control, user role management, hierarchy definition |
+| **Admin** | Full control, user role management, hierarchy definition, bans and promote users |
 | **Coach** | Add & view training programs |
 | **Group Admin (Meneur d’allure)** | Create and manage one running group, add members |
 | **Member** | Register for events, manage profile, access features |
